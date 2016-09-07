@@ -11,7 +11,7 @@ export default class App extends React.Component{
         return(
           <container>
               <div>
-                Hello Fiend
+                <h1>Scripty</h1>
               </div>
           </container>
         )
